@@ -36,8 +36,8 @@ security:
   sessions: stateless
   oauth2:
     client:
-      client-id: pig
-      client-secret: pig
+      client-id: lengleng
+      client-secret: lengleng
     resource:
       loadBalanced: true
       token-info-uri: ${security.auth.server}/oauth/check-token
