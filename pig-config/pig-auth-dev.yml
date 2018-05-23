@@ -1,5 +1,10 @@
 server:
   port: 3000
+pig:
+  auth:
+    clientId: ENC(Ho5VxMWMMIzfIEE8/WxVzA==)   //pig
+    clientSecret: ENC(Ho5VxMWMMIzfIEE8/WxVzA==) //pig
+    scope: server
   
 # datasoure默认使用JDBC
 spring:
