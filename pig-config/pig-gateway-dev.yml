@@ -31,8 +31,8 @@ zuul:
 
 security:
   validate:
-    code: true
-    preview: true
+    code: false
+    preview: false
   sessions: stateless
   oauth2:
     client:
